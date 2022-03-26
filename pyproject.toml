@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "pyspark-delta-utility"
+name = "pyspark_delta_utility"
 version = "0.1.0"
 description = "A useful python package that consists of pyspark and delta utilities"
 authors = ["Kyle Ahn"]
@@ -8,6 +8,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "3.9"
+databricks-connect = "9.1.11"
 
 [tool.poetry.dev-dependencies]
 

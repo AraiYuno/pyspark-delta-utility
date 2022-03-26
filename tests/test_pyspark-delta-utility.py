@@ -1,1 +1,1 @@
-from pyspark-delta-utility import pyspark-delta-utility
+from pyspark_delta_utility import pyspark_delta_utility

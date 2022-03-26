@@ -40,10 +40,10 @@ If you are proposing a feature:
 
 ## Get Started!
 
-Ready to contribute? Here's how to set up `pyspark-delta-utility` for local development.
+Ready to contribute? Here's how to set up `pyspark_delta_utility` for local development.
 
-1. Download a copy of `pyspark-delta-utility` locally.
-2. Install `pyspark-delta-utility` using `poetry`:
+1. Download a copy of `pyspark_delta_utility` locally.
+2. Install `pyspark_delta_utility` using `poetry`:
 
     ```console
     $ poetry install
@@ -69,5 +69,5 @@ Before you submit a pull request, check that it meets these guidelines:
 
 ## Code of Conduct
 
-Please note that the `pyspark-delta-utility` project is released with a 
+Please note that the `pyspark_delta_utility` project is released with a 
 Code of Conduct. By contributing to this project you agree to abide by its terms.

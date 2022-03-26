@@ -9,7 +9,7 @@ if "%SPHINXBUILD%" == "" (
 )
 set SOURCEDIR=.
 set BUILDDIR=_build
-set SPHINXPROJ=pyspark-delta-utility
+set SPHINXPROJ=pyspark_delta_utility
 
 if "%1" == "" goto help
 

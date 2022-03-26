@@ -1,11 +1,11 @@
-# pyspark-delta-utility
+# pyspark_delta_utility
 
 A useful python package that consists of pyspark and delta utilities
 
 ## Installation
 
 ```bash
-$ pip install pyspark-delta-utility
+$ pip install pyspark_delta_utility
 ```
 
 ## Usage
@@ -18,8 +18,8 @@ Interested in contributing? Check out the contributing guidelines. Please note t
 
 ## License
 
-`pyspark-delta-utility` was created by Kyle Ahn. It is licensed under the terms of the MIT license.
+`pyspark_delta_utility` was created by Kyle Ahn. It is licensed under the terms of the MIT license.
 
 ## Credits
 
-`pyspark-delta-utility` was created with [`cookiecutter`](https://cookiecutter.readthedocs.io/en/latest/) and the `py-pkgs-cookiecutter` [template](https://github.com/py-pkgs/py-pkgs-cookiecutter).
+`pyspark_delta_utility` was created with [`cookiecutter`](https://cookiecutter.readthedocs.io/en/latest/) and the `py-pkgs-cookiecutter` [template](https://github.com/py-pkgs/py-pkgs-cookiecutter).

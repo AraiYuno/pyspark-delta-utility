@@ -6,7 +6,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u"pyspark-delta-utility"
+project = u"pyspark_delta_utility"
 copyright = u"2022, Kyle Ahn"
 author = u"Kyle Ahn"
 
